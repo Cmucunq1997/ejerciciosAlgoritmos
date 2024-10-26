@@ -1,0 +1,3 @@
+﻿  ejercicio_31.cpp
+C:\Users\mucun\source\repos\ejercicio_31\ejercicio_31\ejercicio_31.cpp(27,12): warning C4305: '*=': truncamiento de 'double' a 'float'
+  ejercicio_31.vcxproj -> C:\Users\mucun\source\repos\ejercicio_31\ejercicio_31\x64\Debug\ejercicio_31.exe

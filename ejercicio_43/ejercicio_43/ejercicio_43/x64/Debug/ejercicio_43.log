@@ -1,0 +1,3 @@
+﻿  ejercicio_43.cpp
+C:\Users\mucun\source\repos\ejercicio_43\ejercicio_43\ejercicio_43.cpp(10,13): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  ejercicio_43.vcxproj -> C:\Users\mucun\source\repos\ejercicio_43\ejercicio_43\x64\Debug\ejercicio_43.exe

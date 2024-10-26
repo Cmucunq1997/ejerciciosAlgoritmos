@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mucun\\source\\repos\\ejercicio_34\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86B405F2-16DC-48C0-A745-18033C4A2896}|ejercicio_34\\ejercicio_34.vcxproj|C:\\Users\\mucun\\source\\repos\\ejercicio_34\\ejercicio_34\\ejercicio_34.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86B405F2-16DC-48C0-A745-18033C4A2896}|ejercicio_34\\ejercicio_34.vcxproj|solutionrelative:ejercicio_34\\ejercicio_34.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ejercicio_34.cpp",
+              "DocumentMoniker": "C:\\Users\\mucun\\source\\repos\\ejercicio_34\\ejercicio_34\\ejercicio_34.cpp",
+              "RelativeDocumentMoniker": "ejercicio_34\\ejercicio_34.cpp",
+              "ToolTip": "C:\\Users\\mucun\\source\\repos\\ejercicio_34\\ejercicio_34\\ejercicio_34.cpp",
+              "RelativeToolTip": "ejercicio_34\\ejercicio_34.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T04:30:06.493Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

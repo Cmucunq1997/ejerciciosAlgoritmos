@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mucun\\source\\repos\\ejercicio_32\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13F9F10D-A3A3-4EB6-BA3D-12B32DCB5993}|ejercicio_32\\ejercicio_32.vcxproj|C:\\Users\\mucun\\source\\repos\\ejercicio_32\\ejercicio_32\\ejercicio_32.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13F9F10D-A3A3-4EB6-BA3D-12B32DCB5993}|ejercicio_32\\ejercicio_32.vcxproj|solutionrelative:ejercicio_32\\ejercicio_32.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ejercicio_32.cpp",
+              "DocumentMoniker": "C:\\Users\\mucun\\source\\repos\\ejercicio_32\\ejercicio_32\\ejercicio_32.cpp",
+              "RelativeDocumentMoniker": "ejercicio_32\\ejercicio_32.cpp",
+              "ToolTip": "C:\\Users\\mucun\\source\\repos\\ejercicio_32\\ejercicio_32\\ejercicio_32.cpp",
+              "RelativeToolTip": "ejercicio_32\\ejercicio_32.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T03:36:43.862Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
